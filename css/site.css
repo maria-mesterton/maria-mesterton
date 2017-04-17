@@ -177,3 +177,18 @@ div .project-header {
     padding: 50px;
     margin: 20px 0px
 }
+
+.article-text {
+    margin: 0px 125px;
+}
+
+.cover-section {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
